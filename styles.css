@@ -1,4 +1,3 @@
-/* Основные стили */
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -11,7 +10,6 @@ body {
     margin: 0 auto;
 }
 
-/* Стили для форм */
 form {
     background-color: #fff;
     padding: 20px;
@@ -39,5 +37,3 @@ button {
 button:hover {
     background-color: #0056b3;
 }
-
-/* Специфичные стили для элементов на страницах (регистрация, авторизация и т.д.) */
